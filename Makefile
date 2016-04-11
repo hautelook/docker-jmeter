@@ -1,4 +1,4 @@
 build:
-	docker build -t="hauptmedia/jmeter" .
+	docker build -t="hautelook/jmeter" .
 
 .PHONY: build
